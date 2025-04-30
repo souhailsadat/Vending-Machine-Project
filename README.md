@@ -1,4 +1,4 @@
-# Vending Machine Project
+# Drink Vending Machine Project
 
 A simple drink vending machine built with EJB (Enterprise JavaBeans) and deployed on GlassFish (Java EE server). Designed for a software architecture course, this project demonstrates component-based design with three core components:
 
